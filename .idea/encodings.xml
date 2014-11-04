@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/model/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/security/AgentDetails.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/security/AgentDetailsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/security/AuthenticationFailureHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/diosoft/training/project/security/AuthenticationSuccessHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/persistence/MigrationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/persistence/Upgrade.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/persistence/model/Agent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/persistence/repositories/AgentsRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/security/AgentDetails.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/security/AgentDetailsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/security/AuthenticationFailureHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/security/AuthenticationSuccessHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.properties" charset="UTF-8" />
+  </component>
 </project>
 

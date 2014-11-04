@@ -25,6 +25,9 @@
         <module name="springmvc_webCallendar" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmvc_webCallendar" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
